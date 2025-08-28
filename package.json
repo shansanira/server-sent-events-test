@@ -1,0 +1,9 @@
+{
+  "name": "sse-test",
+  "version": "1.0.0",
+  "description": "testing SSE capabilities with added security and notification updates",
+  "main": "index.ts",
+  "author": "Sanira Liyanage",
+  "license": "MIT",
+  "private": true
+}
